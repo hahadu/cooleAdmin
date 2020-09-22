@@ -1,13 +1,14 @@
 {
-    "name": "topthink/think",
-    "description": "the new thinkphp framework",
+    "name": "hahadu/cooleAdmin",
+    "description": "the new thinkphp admin framework ",
     "type": "project",
     "keywords": [
         "framework",
         "thinkphp",
+        "tpadmin",
         "ORM"
     ],
-    "homepage": "http://thinkphp.cn/",
+    "homepage": "https://github.com/hahadu/cooleAdmin",
     "license": "Apache-2.0",
     "authors": [
         {
